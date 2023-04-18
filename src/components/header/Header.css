@@ -1,0 +1,56 @@
+header {
+    padding: 0px 150px;
+}
+
+.greeting {
+    color: #64ffda;
+    font-size: 16px;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.my-name {
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    color: #CCD6F6;
+}
+
+.what-i-do {
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    color: #8892B0;
+}
+
+.about-me {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #8892B0;
+}
+
+.green-text {
+    color: #64ffda;
+}
+
+.skills {
+    display: flex;
+    margin-top: 60px;
+}
+
+.skill-card {
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    margin-right: 20px;
+    border-radius: 4px;
+    padding: 20px;
+    width: 200px;
+}
+
+.skill-card h3 {
+    color: #8892B0;
+    margin-bottom: 10px;
+}
+
+.skill-card h4 {
+    color: #CCD6F6;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,21 @@
+.footer-container {
+    padding: 0px 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.footer-item {
+    margin: 0px 20px;
+    text-align: center;
+}
+
+.footer-item h3 {
+    color: #CCD6F6;
+    font-size: 22px;
+}
+
+.footer-item p {
+    color: #CCD6F6;
+}

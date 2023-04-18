@@ -1,0 +1,50 @@
+.contact-me-container {
+    padding: 0px 150px;
+    margin-top: 200px;
+}
+
+.contact-me-title {
+    text-align: center;
+    color: #CCD6F6;
+    margin-bottom: 50px;
+}
+
+.contact-me-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.contact-me-form label {
+    margin-top: 16px;
+    font-size: 20px;
+    color: #CCD6F6;
+    text-align: center;
+}
+
+.contact-me-form input, .contact-me-form textarea {
+    font-size: 20px;
+    background: transparent;
+    color: #CCD6F6;
+    border: 1px solid #64ffda;
+    padding: 8px 16px;
+    border-radius: 4px;
+    margin-top: 8px;
+    outline: none;
+}
+
+.contact-me-form p {
+    color: red;
+}
+
+.contact-me-button {
+    font-size: 20px;
+    background: #64ffda;
+    color: #0A192F;
+    border: 1px solid #64ffda;
+    padding: 8px 16px;
+    border-radius: 4px;
+    margin-top: 16px;
+    outline: none;
+}
